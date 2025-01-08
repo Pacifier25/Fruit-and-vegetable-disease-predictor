@@ -71,9 +71,12 @@ This architecture offers a balance of speed and precision, making it suitable fo
 ## 📊 Visualizations
 
 ### **Training vs Validation Loss**
+![image](https://github.com/user-attachments/assets/08578182-a741-4078-8158-cba187a3110e)
+
 
 
 ### **Training vs Validation Accuracy**
+![image](https://github.com/user-attachments/assets/90656aca-07af-4e6c-bf1a-746527f193a6)
 
 
 ---
