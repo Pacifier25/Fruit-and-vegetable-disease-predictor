@@ -83,7 +83,7 @@ This architecture offers a balance of speed and precision, making it suitable fo
 
 
 ## 🎥 Demo Video
-Watch Demo Video
+Watch Demo (Videohttps://drive.google.com/file/d/1eHFBsfeB8dZuW-PqG2YTw_TwXrNkvold/view?usp=sharing)
 
 
 ---
