@@ -21,7 +21,7 @@ The model is based on **EfficientNetV2B0**, a pre-trained Convolutional Neural N
 
 * **Fine-Tuned Layers**: Optimized with additional layers to adapt specifically to this dataset, ensuring accurate detection of diseases in fruits and vegetables.
 * **Transfer Learning**: Utilizes pre-trained weights to enhance feature extraction and classification, reducing training time while improving performance.
-* **High Accuracy**: Achieves **91.97% accuracy**, making it reliable for real-world applications.
+* **High Accuracy**: Achieves **97.42% accuracy**, making it reliable for real-world applications.
 This architecture offers a balance of speed and precision, making it suitable for deployment in quality control systems.
 
 ---
