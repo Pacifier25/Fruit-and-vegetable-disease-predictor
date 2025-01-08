@@ -3,9 +3,8 @@
 ---
 
 ## 🌟 Overview
-The **Fruit and Vegetable Disease Detector** is an AI-powered application designed to analyze images of fruits and vegetables and classify whether they are healthy or rotten.
 
-This project leverages deep learning techniques to deliver highly accurate predictions, making it a valuable tool for quality control in agriculture and food industries.
+The **Fruit and Vegetable Disease Detector** is an AI-powered application designed to analyze images of fruits and vegetables, classifying them as either healthy or rotten. By leveraging advanced deep learning techniques, it provides highly accurate predictions, making it a valuable tool for quality control in agriculture, food industries, and supply chains. This application automates the inspection process, saving time and effort while reducing human error. Its user-friendly interface, built with **Streamlit**, ensures accessibility for non-technical users. The tool is designed to help minimize food waste, improve efficiency, and support sustainable practices by enabling early identification of quality issues and diseases in produce. Future plans include deploying the application on **Microsoft Azure** for scalability and remote monitoring.
 
 ---
 
@@ -21,10 +20,12 @@ The dataset is ideal for **image classification** and **deep learning tasks**, e
 ---
 
 ### 🧠 Model
-The model is based on **EfficientNetV2B0**, a pre-trained Convolutional Neural Network (CNN) architecture.
+The model is based on **EfficientNetV2B0**, a pre-trained Convolutional Neural Network (CNN) architecture known for its efficiency and accuracy in image classification tasks.
 
-* **Fine-Tuned Layers**: Optimized for enhanced performance with this dataset.
-* **Transfer Learning** : Leverages pre-trained weights to boost feature extraction and classification accuracy.
+* **Fine-Tuned Layers**: Optimized with additional layers to adapt specifically to this dataset, ensuring accurate detection of diseases in fruits and vegetables.
+* **Transfer Learning**: Utilizes pre-trained weights to enhance feature extraction and classification, reducing training time while improving performance.
+* **High Accuracy**: Achieves **91.97% accuracy**, making it reliable for real-world applications.
+This architecture offers a balance of speed and precision, making it suitable for deployment in quality control systems.
 
 ---
   
@@ -41,7 +42,7 @@ The model is based on **EfficientNetV2B0**, a pre-trained Convolutional Neural N
 - **Programming Language**: Python
 - **Deep Learning Framework**: TensorFlow/Keras
 - **Frontend Framework**: Streamlit
-- **Deployment Platforms**: Streamlit Cloud and Microsoft Azure
+- **Deployment Platforms**: Streamlit Cloud and Microsoft Azure(upcoming)
 
   
 ---
