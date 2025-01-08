@@ -35,7 +35,7 @@ The model is based on **EfficientNetV2B0**, a pre-trained Convolutional Neural N
 - **Real-Time Feedback**: Displays classification results along with the confidence percentage.  
 - **User-Friendly Interface**: Built with **Streamlit** for an intuitive and interactive experience.  
 
----.
+---
 
 ## 🛠️ Technology Stack
 - **Programming Language**: Python
