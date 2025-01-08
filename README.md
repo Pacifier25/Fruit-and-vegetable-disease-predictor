@@ -59,8 +59,7 @@ This architecture offers a balance of speed and precision, making it suitable fo
 
 
 ## 📊 Results
-- **Final Training Accuracy**: **91.97%**
-- **Final Validation Accuracy**: **91.97%**
+- **Final Test Accuracy**: **97.42%**
 - **Model Type**: EfficientNetV2B0 (Fine-tuned)
 - **Dataset Used**: [fruit-and-vegetable-disease-healthy-vs-rotten](https://www.kaggle.com/datasets/muhammad0subhan/fruit-and-vegetable-disease-healthy-vs-rotten/data)
 
