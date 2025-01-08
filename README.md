@@ -1,12 +1,10 @@
 # Fruit and Vegetable Disease Detector 🍎
 
----
 
 ## 🌟 Overview
 
 The **Fruit and Vegetable Disease Detector** is an AI-powered application designed to analyze images of fruits and vegetables, classifying them as either healthy or rotten. By leveraging advanced deep learning techniques, it provides highly accurate predictions, making it a valuable tool for quality control in agriculture, food industries, and supply chains. This application automates the inspection process, saving time and effort while reducing human error. Its user-friendly interface, built with **Streamlit**, ensures accessibility for non-technical users. The tool is designed to help minimize food waste, improve efficiency, and support sustainable practices by enabling early identification of quality issues and diseases in produce. Future plans include deploying the application on **Microsoft Azure** for scalability and remote monitoring.
 
----
 
 ### 📊 Dataset
 This project uses the **Fruit and Vegetable Diseases Dataset**, which contains **30,000 images** categorized into healthy and rotten classes for **14 types** of fruits and vegetables.
