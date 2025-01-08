@@ -15,7 +15,6 @@ This project uses the **Fruit and Vegetable Diseases Dataset**, which contains *
 * **Image Size**: Recommended resizing to **224x224 pixels** for training consistency.
 The dataset is ideal for **image classification** and **deep learning tasks**, enabling **accurate detection of diseases** in fruits and vegetables.
 
----
 
 ### 🧠 Model
 The model is based on **EfficientNetV2B0**, a pre-trained Convolutional Neural Network (CNN) architecture known for its efficiency and accuracy in image classification tasks.
