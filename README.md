@@ -42,8 +42,10 @@ The model is based on **EfficientNetV2B0**, a pre-trained Convolutional Neural N
 - **Deep Learning Framework**: TensorFlow/Keras
 - **Frontend Framework**: Streamlit
 - **Deployment Platforms**: Streamlit Cloud and Microsoft Azure
-- 
+
+  
 ---
+
   .
 ## 📂 Folder Structure
 ```
@@ -54,15 +56,19 @@ The model is based on **EfficientNetV2B0**, a pre-trained Convolutional Neural N
 ├── fruitsand_vegetables.ipynb
 └── README.md
 ```
+
 ---
+
 
 ## 📊 Results
 - **Final Training Accuracy**: **91.97%**
 - **Final Validation Accuracy**: **91.97%**
 - **Model Type**: EfficientNetV2B0 (Fine-tuned)
 - **Dataset Used**: [fruit-and-vegetable-disease-healthy-vs-rotten](https://www.kaggle.com/datasets/muhammad0subhan/fruit-and-vegetable-disease-healthy-vs-rotten/data)
+
   
 ---
+
 
 ## 📊 Visualizations
 
@@ -71,17 +77,23 @@ The model is based on **EfficientNetV2B0**, a pre-trained Convolutional Neural N
 
 ### **Training vs Validation Accuracy**
 
+
 ---
+
 
 ## 🎥 Demo Video
 Watch Demo Video
 
+
 ---
+
 
 ## 💻 Installation Guide
 ### Prerequisites
 - **Python** 3.7 or later  
-- **Virtual Environment** (optional)  
+- **Virtual Environment** (optional)
+
+---
 
 
 ### Steps
@@ -110,16 +122,22 @@ streamlit run project_files/app.py
 ## 🚀 Deployment
 The app is currently deployed on Streamlit and will soon be available on Microsoft Azure.
 
+---
+
 ## 📥 Download
 **[Click here to download the project files](https://github.com/Pacifier25/Fruit-and-vegetable-disease-predictor/archive/refs/heads/main.zip)**
 
+
 ---
+
 
 ## 🙏 Acknowledgements
 - **Dataset**: Kaggle - [fruit-and-vegetable-disease-healthy-vs-rotten](https://www.kaggle.com/datasets/muhammad0subhan/fruit-and-vegetable-disease-healthy-vs-rotten/data)  
 - **Frameworks**: TensorFlow and Streamlit  
-- **Design Elements**:  Agriculture Quality Control Themee  
+- **Design Elements**:  Agriculture Quality Control Theme
+  
 
 ---
+
 
 Thank you for checking out this project! Feel free to contribute or reach out with feedback!
